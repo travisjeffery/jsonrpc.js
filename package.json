@@ -1,0 +1,26 @@
+{
+  "name": "jsonrpc.js",
+  "version": "1.0.0",
+  "description": "JSON-RPC over HTTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "json-rpc",
+    "http",
+    "client"
+  ],
+  "dependencies": {
+    "superagent": "^1.4.0",
+    "uid2": "0.0.3"
+  },
+  "devDependencies": {
+    "koa": "~1.0.0",
+    "supertest": "^1.1.0",
+    "koa-bodyparser": "^2.0.0",
+    "mocha": "^2.0.0"
+  },
+  "author": "Travis Jeffery",
+  "license": "MIT"
+}
