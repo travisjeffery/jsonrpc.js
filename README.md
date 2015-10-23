@@ -14,7 +14,9 @@ JSON-RPC over HTTP client.
 
 ## Installation
 
-   $ npm install jsonrpc.js
+  ``` sh
+  $ npm install jsonrpc.js
+  ```
 
 ## License
 
